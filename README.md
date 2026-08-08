@@ -21,22 +21,9 @@ $ cat ~/interests.txt
 
 ## `~/projects`
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  axolotl-cli                                          [OSINT]   │
-│  ─────────────────────────────────────────────────────────────  │
-│  Give it a name. An email. A username. A phone number.          |
-|  It finds the rest. Aggregates across OSINT tools & APIs        |
-|  for maximum coverage from minimal input.                       |
-└─────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────┐
-│  Baladio                                    [Music Player]      │
-│  ─────────────────────────────────────────────────────────────  │
-│  Personal local music player. Node.js + vanilla JS.             │
-│  8D HRTF audio, aurora blob UI, listening stats, drag playlists.│
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="assets/axolotl-cli.png" alt="axolotl-cli badge">
+<br>
+<img src="assets/baladio.png" alt="baladio badge">
 
 ## `~/stack`
 
