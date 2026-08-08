@@ -25,6 +25,7 @@ $ cat ~/interests.txt
 
 ## `~/projects`
 
+```
 ┌─────────────────────────────────────────────────────────────────┐
 │  axolotl-cli                                          [OSINT]   │
 │  ─────────────────────────────────────────────────────────────  │
@@ -39,8 +40,7 @@ $ cat ~/interests.txt
 │  Personal local music player. Node.js + vanilla JS.             │
 │  8D HRTF audio, aurora blob UI, listening stats, drag playlists.│
 └─────────────────────────────────────────────────────────────────┘
-
-
+```
 ---
 
 ## `~/stack`
