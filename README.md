@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=1DF78F&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Ridwan.;Coding%7CPentesting%7COSINT;%24+rm+-rf+boredom)](https://git.io/typing-svg)
 </div>
 
----
-
 ```bash
 $ whoami
 rxdwan\Ridwan. I build stuff. Mostly Python.
@@ -20,8 +18,6 @@ $ cat ~/interests.txt
 - OSINT tooling
 - Automation systems
 ```
-
----
 
 ## `~/projects`
 
@@ -41,7 +37,6 @@ $ cat ~/interests.txt
 │  8D HRTF audio, aurora blob UI, listening stats, drag playlists.│
 └─────────────────────────────────────────────────────────────────┘
 ```
----
 
 ## `~/stack`
 
@@ -51,19 +46,14 @@ $ cat ~/interests.txt
 
 </div>
 
----
-
 ## `~/stats`
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rxdwan&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=39FF14&icon_color=39FF14&title_color=39FF14&text_color=ffffff&hide_border=false)](https://github.com/rxdwan)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxdwan&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=39FF14&title_color=39FF14&text_color=ffffff)](https://github.com/rxdwan)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rxdwan&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=39FF14&icon_color=39FF14&title_color=39FF14&text_color=ffffff&hide_border=false)](https://github.com/rxdwan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxdwan&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=39FF14&title_color=39FF14&text_color=ffffff)](https://github.com/rxdwan)
 
 </div>
 
----
 
 ```bash
 $ echo "currently running..."
