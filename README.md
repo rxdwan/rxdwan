@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=4000&pause=1000&color=6B5240&center=true&vCenter=true&width=435&lines=rxdwan+%2F+Ridwan;I+build+stuff.+Mostly+Python.;Sometimes+it+talks+back.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=4000&pause=1000&color=6B5240&center=true&vCenter=true&width=600&lines=Get+busy+living%2C+or+get+busy+dying.;You+have+to+go+through+summer+to+get+to+autumn.;I%27m+gonna+make+him+an+offer+he+can%27t+refuse.;We+always+called+each+other+goodfellas.;Forget+it+Jake%2C+it%27s+Chinatown.;Play+it%2C+Sam.)](https://git.io/typing-svg)
 
 </div>
 
